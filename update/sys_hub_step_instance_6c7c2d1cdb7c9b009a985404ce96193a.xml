@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_step_instance">
+    <sys_hub_step_instance action="INSERT_OR_UPDATE">
+        <action display_value="Test2">987c2d1cdb7c9b009a985404ce961912</action>
+        <cid>75bfb8ef-ef0b-4e20-b91e-8c6dfb463e4e</cid>
+        <extended_inputs/>
+        <extended_outputs/>
+        <icon/>
+        <inputs/>
+        <label>REST step</label>
+        <order>2</order>
+        <outputs/>
+        <step_type display_value="">07a762fb47222200b4fad7527c9a7129</step_type>
+        <sys_class_name>sys_hub_step_instance</sys_class_name>
+        <sys_created_by>mansings</sys_created_by>
+        <sys_created_on>2018-03-08 07:44:22</sys_created_on>
+        <sys_id>6c7c2d1cdb7c9b009a985404ce96193a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>REST step</sys_name>
+        <sys_package display_value="SNOWIH Test" source="x_snc_snowih_test">a2f052c4db7c9b005963ff041d96192d</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="SNOWIH Test">a2f052c4db7c9b005963ff041d96192d</sys_scope>
+        <sys_update_name>sys_hub_step_instance_6c7c2d1cdb7c9b009a985404ce96193a</sys_update_name>
+        <sys_updated_by>mansings</sys_updated_by>
+        <sys_updated_on>2018-03-08 07:44:22</sys_updated_on>
+    </sys_hub_step_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=6c7c2d1cdb7c9b009a985404ce96193a"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>6c7c2d1cdb7c9b009a985404ce96193a</document_key>
+        <order>35</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>mansings</sys_created_by>
+        <sys_created_on>2018-03-08 07:44:22</sys_created_on>
+        <sys_id>207c2d1cdb7c9b009a985404ce961954</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>mansings</sys_updated_by>
+        <sys_updated_on>2018-03-08 07:44:22</sys_updated_on>
+        <value>http://Jira.Test.com</value>
+        <variable display_value="">a67a8ef03b23320057a4a2e334efc472</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>6c7c2d1cdb7c9b009a985404ce96193a</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>mansings</sys_created_by>
+        <sys_created_on>2018-03-08 07:44:22</sys_created_on>
+        <sys_id>6c7c2d1cdb7c9b009a985404ce961953</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>mansings</sys_updated_by>
+        <sys_updated_on>2018-03-08 07:44:22</sys_updated_on>
+        <value>8c289190db7c9b009a985404ce9619d3</value>
+        <variable display_value="">262882f03b23320057a4a2e334efc4f0</variable>
+    </sys_variable_value>
+</record_update>

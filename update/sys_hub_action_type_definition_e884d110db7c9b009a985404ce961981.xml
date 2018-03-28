@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Test</description>
+        <internal_name>test_action</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot>7eb85990db7c9b009a985404ce961917</latest_snapshot>
+        <master_snapshot>b1945510db7c9b009a985404ce961904</master_snapshot>
+        <name>Test Action</name>
+        <outputs/>
+        <state>published</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>mansings</sys_created_by>
+        <sys_created_on>2018-03-08 05:59:47</sys_created_on>
+        <sys_id>e884d110db7c9b009a985404ce961981</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Test Action</sys_name>
+        <sys_package display_value="SNOWIH Test" source="x_snc_snowih_test">a2f052c4db7c9b005963ff041d96192d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SNOWIH Test">a2f052c4db7c9b005963ff041d96192d</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_e884d110db7c9b009a985404ce961981</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-03-13 06:44:09</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=e884d110db7c9b009a985404ce961981"/>
+    <sys_variable_value action="delete_multiple" query="document_key=e884d110db7c9b009a985404ce961981"/>
+</record_update>

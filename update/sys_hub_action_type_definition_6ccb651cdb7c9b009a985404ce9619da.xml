@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>THis is Test2 action</description>
+        <internal_name>test2</internal_name>
+        <label_cache>[{"name":"{{action.ah_input}}","label":"action➛Input","type":"action","ref":""},{"name":"{{step[bc8634c1-4cd5-426b-bf2f-a1ef5a873ecd].o}}","label":"step➛Script step➛o","type":"step","ref":""},{"name":"{{step[bc8634c1-4cd5-426b-bf2f-a1ef5a873ecd].ok}}","label":"step➛Script step➛ok","type":"step","ref":""}]</label_cache>
+        <latest_snapshot>007ce91cdb7c9b009a985404ce9619c2</latest_snapshot>
+        <master_snapshot>987c2d1cdb7c9b009a985404ce961912</master_snapshot>
+        <name>Test2</name>
+        <outputs/>
+        <outputs/>
+        <state>published</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>mansings</sys_created_by>
+        <sys_created_on>2018-03-08 07:41:22</sys_created_on>
+        <sys_id>6ccb651cdb7c9b009a985404ce9619da</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Test2</sys_name>
+        <sys_package display_value="SNOWIH Test" source="x_snc_snowih_test">a2f052c4db7c9b005963ff041d96192d</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="SNOWIH Test">a2f052c4db7c9b005963ff041d96192d</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_6ccb651cdb7c9b009a985404ce9619da</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-03-13 06:44:07</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=6ccb651cdb7c9b009a985404ce9619da"/>
+    <sys_variable_value action="delete_multiple" query="document_key=6ccb651cdb7c9b009a985404ce9619da"/>
+    <sys_element_mapping action="delete_multiple" query="id=6ccb651cdb7c9b009a985404ce9619da"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>output</field>
+        <id>6ccb651cdb7c9b009a985404ce9619da</id>
+        <sys_created_by>mansings</sys_created_by>
+        <sys_created_on>2018-03-08 07:44:17</sys_created_on>
+        <sys_id>1f6ce91cdb7c9b009a985404ce961996</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>mansings</sys_updated_by>
+        <sys_updated_on>2018-03-08 07:44:17</sys_updated_on>
+        <table>var__m_sys_hub_action_output_6ccb651cdb7c9b009a985404ce9619da</table>
+        <value>{{step[bc8634c1-4cd5-426b-bf2f-a1ef5a873ecd].ok}}</value>
+    </sys_element_mapping>
+</record_update>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>teer</description>
+        <internal_name>test1</internal_name>
+        <label_cache>[{"name":"{{step[7f734b76-cda4-47c5-ae0d-de9fd982f5c2].error_code}}","label":"step➛REST step➛Error Code","type":"step","ref":""}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Test1</name>
+        <outputs/>
+        <outputs/>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>mansings</sys_created_by>
+        <sys_created_on>2018-03-08 07:40:03</sys_created_on>
+        <sys_id>1d7be11cdb7c9b009a985404ce961982</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Test1</sys_name>
+        <sys_package display_value="SNOWIH Test" source="x_snc_snowih_test">a2f052c4db7c9b005963ff041d96192d</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="SNOWIH Test">a2f052c4db7c9b005963ff041d96192d</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_1d7be11cdb7c9b009a985404ce961982</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-03-13 06:44:06</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=1d7be11cdb7c9b009a985404ce961982"/>
+    <sys_variable_value action="delete_multiple" query="document_key=1d7be11cdb7c9b009a985404ce961982"/>
+    <sys_element_mapping action="delete_multiple" query="id=1d7be11cdb7c9b009a985404ce961982"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>Error Code</field>
+        <id>1d7be11cdb7c9b009a985404ce961982</id>
+        <sys_created_by>mansings</sys_created_by>
+        <sys_created_on>2018-03-08 07:40:54</sys_created_on>
+        <sys_id>79ab651cdb7c9b009a985404ce9619d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>mansings</sys_updated_by>
+        <sys_updated_on>2018-03-08 07:40:54</sys_updated_on>
+        <table>var__m_sys_hub_action_output_1d7be11cdb7c9b009a985404ce961982</table>
+        <value>{{step[7f734b76-cda4-47c5-ae0d-de9fd982f5c2].error_code}}</value>
+    </sys_element_mapping>
+</record_update>

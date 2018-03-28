@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="ah_test_input" label="Test Input" language="en" table="var__m_sys_hub_action_input_7eb85990db7c9b009a985404ce961917">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ah_test_input</element>
+            <help/>
+            <hint/>
+            <label>Test Input</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_7eb85990db7c9b009a985404ce961917</name>
+            <plural>Test Input</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>mansings</sys_created_by>
+            <sys_created_on>2018-03-08 06:18:14</sys_created_on>
+            <sys_id>beb85990db7c9b009a985404ce96191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Test Input</sys_name>
+            <sys_package display_value="SNOWIH Test" source="x_snc_snowih_test">a2f052c4db7c9b005963ff041d96192d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SNOWIH Test">a2f052c4db7c9b005963ff041d96192d</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_input_7eb85990db7c9b009a985404ce961917_ah_test_input_en</sys_update_name>
+            <sys_updated_by>mansings</sys_updated_by>
+            <sys_updated_on>2018-03-08 06:18:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
